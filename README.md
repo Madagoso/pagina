@@ -1,1 +1,1 @@
-Primer proyecto con mi información
+mi primer proyecto
